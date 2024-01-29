@@ -1,15 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Juan Felipe Valadez</h1>
 <h3 align="center">Desarrollador Front-End | Desarrollador Back-End</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valadxz&label=Profile%20views&color=0e75b6&style=flat" alt="valadxz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valadxz" alt="valadxz" /></a> </p>
-
 - 🔭 Actualmente estoy **en busca de empleo**
 
 - 🌱 Me encuentro estudiando **Angular, Springboot, Java**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/valadz/](https://www.linkedin.com/in/valadz/)
 
 - 💬 Preguntame sobre **HTML5, CSS3, JavaScript, Angular, node.js**
 
