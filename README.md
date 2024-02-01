@@ -1,25 +1,19 @@
-<h1 align="center">Hola 👋, Me llamo Juan Felipe Valadez Jimenez</h1>
-    <h3 align="center">Desarrollador Front-End | Desarrollador Back-End</h3>
-    
-    - 🔭 Actualmente estoy **en busca de empleo** - 🌱 Me encuentro estudiando
-    **Angular, Springboot, Java** - 💬 Preguntame sobre **HTML5, CSS3, JavaScript,
-    Angular, node.js** - 📫 Email **juanfelipevldz@gmail.com**
-    
-    <h3 align="left">Contáctame en:</h3>
-    <p align="left">
-      <a href="https://linkedin.com/in/valadz" target="_blank"
-        ><img
-        title="Angular"
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="Angular"
-          height="30"
-          width="50"
-      /></a>
-    </p>
-    
-    <h3 align="left">Lenguajes, frameworks y herramientas:</h3>
-    <details>
+<h1 align="center">Hola 👋, Me llamo Juan Felipe Valadez</h1>
+<h3 align="center">Desarrollador Front-End | Desarrollador Back-End</h3>
+
+- Actualmente me encuentro **en busca de empleo**
+
+- 🌱 Me encuentro estudiando **Angular, Springboot, Java**
+
+- 💬 Preguntame sobre **HTML5, CSS3, JavaScript, Angular, node.js**
+
+- 📫 Email **juanfelipevldz@gmail.com**
+<h3 align="left">Contáctame en:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/valadz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valadz" height="30" width="40" /></a>
+</p>
+<h3 align="left">Lenguajes, frameworks y herramientas:</h3>
+<details>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
@@ -44,7 +38,6 @@
         </ul>
     </details>
     <p align="left">
-
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -140,7 +133,6 @@
           height="60"
         />
       </a>
-    
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -157,7 +149,6 @@
           height="60"
         />
       </a>
-     
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -166,7 +157,6 @@
           height="60"
         />
       </a>
-    
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -205,7 +195,6 @@
           height="60"
         />
       </a>
-     
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -214,6 +203,4 @@
           height="60"
         />
       </a>
-     
-
     </p>
