@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Juan Felipe Valadez</h1>
 <h3 align="center">Desarrollador Front-End | Desarrollador Back-End</h3>
 
-- Actualmente me encuentro **en busca de empleo**
+- Actualmente me encuentro **trabajando como Desarrollador Front-End**
 
-- 🌱 Me encuentro estudiando **Angular, Springboot, Java**
+- 🌱 Me encuentro estudiando **Angular, Lit, React, Springboot, Java**
 
 - 💬 Preguntame sobre **HTML5, CSS3, JavaScript, Angular, node.js**
 
